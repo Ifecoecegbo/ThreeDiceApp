@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThirdTask</string>
+    <string name="button">Button</string>
+    <string name="roll">ROLL</string>
+    <string name="pig">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="object2">object2</string>
+    <string name="the_car_class">The Car Class</string>
+    <string name="object1">object1</string>
+</resources>
